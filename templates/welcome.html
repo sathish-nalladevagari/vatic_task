@@ -1,0 +1,27 @@
+<!-- templates/welcome.html -->
+<html>
+<head>
+    <title>Welcome Page</title>
+</head>
+<body>
+    <h1>Welcome!</h1>
+
+    {% if message %}
+        <p>{{ message }}</p>
+    {% endif %}
+
+    <h2>Create a User</h2>
+    <form method="post" action="/create_user">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br>
+        <input type="submit" value="Create User">
+    </form>
+
+    <h2>Show All Users</h2>
+    <a href="/show_users">Show All Users</a>
+</body>
+</html>

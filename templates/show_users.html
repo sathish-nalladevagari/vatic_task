@@ -1,0 +1,25 @@
+<!-- templates/show_users.html -->
+<html>
+<head>
+    <title>Show Users</title>
+</head>
+<body>
+    <h1>All Users</h1>
+    
+    <table border="1">
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+        </tr>
+        {% for user in users %}
+            <tr>
+                <td>{{ user[0] }}</td>
+                <td>{{ user[1] }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+    
+    <br>
+    <a href="/create_user">Back to Welcome Page</a>
+</body>
+</html>
