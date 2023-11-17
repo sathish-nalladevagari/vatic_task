@@ -62,3 +62,12 @@ This is a simple FastAPI application for user management with MySQL database int
 
 ### I have made a dropdown to create a user or another admin.
 ![10](https://github.com/sathish-nalladevagari/vatic_task/assets/104757035/3b44789a-14d4-47aa-9d6d-466f5554cc96)
+
+
+### After successful creation of user.
+![user](https://github.com/sathish-nalladevagari/vatic_task/assets/104757035/965f2c71-32c2-4413-bdf9-8d8815244afb)
+
+
+
+### After successful creation of admin
+![admin](https://github.com/sathish-nalladevagari/vatic_task/assets/104757035/ecd4a78b-7880-49c2-8eb0-d87195df3de3)
