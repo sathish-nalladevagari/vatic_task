@@ -51,3 +51,6 @@ This is a simple FastAPI application for user management with MySQL database int
 
 ### Another page which shows list of all created users
 ![7](https://github.com/sathish-nalladevagari/vatic_task/assets/104757035/fe9db43f-0826-4f28-ad66-4945d0fc695d)
+![8](https://github.com/sathish-nalladevagari/vatic_task/assets/104757035/5973eb89-8b74-46a4-b898-3622e0780db3)
+![9](https://github.com/sathish-nalladevagari/vatic_task/assets/104757035/e69226bc-a658-4426-aba3-205a21f94f65)
+![10](https://github.com/sathish-nalladevagari/vatic_task/assets/104757035/3b44789a-14d4-47aa-9d6d-466f5554cc96)
